@@ -17,7 +17,7 @@
 # Configuration for JRE repository
 ---
 jre:
-  version: 11.+
+  version: 25.+
   version_lines:
     - 11.+
     - 17.+
