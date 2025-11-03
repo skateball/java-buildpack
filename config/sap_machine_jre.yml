@@ -21,6 +21,8 @@ jre:
   version_lines:
     - 11.+
     - 17.+
+    - 21.+
+    - 25.+
   repository_root: "https://sapmachine.io/assets/cf/jre/{platform}/{architecture}"
 jvmkill_agent:
   version: 1.+
